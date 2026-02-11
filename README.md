@@ -2,7 +2,7 @@
 
 Ce document décrit l'architecture technique et le fonctionnement de l'application de suivi de tickets pour la **Case à Chocs**, construite autour de :
 
-- **Hostinger Horizon** – front-end, UI, logique applicative low-code
+- **Hostinger** – front-end, UI, logique applicative
 - **Supabase** – base PostgreSQL, Edge Functions, secrets, authentification
 - **Petzi** – fournisseur externe de billetterie, intégré via webhooks (ou simulateur Python)
 
