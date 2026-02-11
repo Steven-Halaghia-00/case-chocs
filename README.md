@@ -1,4 +1,4 @@
-# Case à Chocs – Billetterie & Suivi des Tickets (Petzi + Supabase + Horizon)
+# Case à Chocs Suivi des Tickets (Petzi + Supabase + Horizon)
 
 Ce document décrit l'architecture technique et le fonctionnement de l'application de suivi de tickets pour la **Case à Chocs**, construite autour de :
 
